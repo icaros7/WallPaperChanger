@@ -1,0 +1,16 @@
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\bin\Release\WallpaerChange.exe.config
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\bin\Release\WallpaerChange.exe
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\bin\Release\WallpaerChange.pdb
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\bin\Release\WallpaerChange.xml
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WindowsApp1.vbprojResolveAssemblyReference.cache
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WallpaerChange.Form1.resources
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WallpaerChange.Resources.resources
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.Cache
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WallpaerChange.exe
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WallpaerChange.xml
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WallpaerChange.pdb
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\bin\Release\WallpaerChange.exe.manifest
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\bin\Release\WallpaerChange.application
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WallpaerChange.exe.manifest
+E:\OneDrive\VS_Project\WallPaperChanger\WindowsApp1\obj\Release\WallpaerChange.application
