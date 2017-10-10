@@ -10,3 +10,15 @@ D:\WallChanger_v2\WallChanger_v2\obj\Release\WallChanger_v2.vbproj.CoreCompileIn
 D:\WallChanger_v2\WallChanger_v2\obj\Release\WallChanger_v2.exe
 D:\WallChanger_v2\WallChanger_v2\obj\Release\WallChanger_v2.xml
 D:\WallChanger_v2\WallChanger_v2\obj\Release\WallChanger_v2.pdb
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\bin\Release\WallChanger_v2.exe.config
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\bin\Release\WallChanger_v2.exe
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\bin\Release\WallChanger_v2.pdb
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\bin\Release\WallChanger_v2.xml
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\obj\Release\WallChanger_v2.vbprojResolveAssemblyReference.cache
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\obj\Release\WallChanger_v2.Form1.resources
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\obj\Release\WallChanger_v2.Resources.resources
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\obj\Release\WallChanger_v2.vbproj.GenerateResource.Cache
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\obj\Release\WallChanger_v2.vbproj.CoreCompileInputs.cache
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\obj\Release\WallChanger_v2.exe
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\obj\Release\WallChanger_v2.xml
+G:\OneDrive\VS_Project\WallPaperChanger\WallChanger_v2\obj\Release\WallChanger_v2.pdb
