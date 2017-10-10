@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WallpaerChange.exe" size="13792">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WallpaerChange.exe" size="14304">
       <assemblyIdentity name="WallpaerChange" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/dgrDT0ZQVxIxEZL9SXlBk0cFSg6h50jdVPeU9n15uc=</dsig:DigestValue>
+        <dsig:DigestValue>bS60E8xJsVmphMcIUDnIfyQhKmN1RvAtvMD+z+/WSaw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="VSMac_1080p.png" size="209881">
+  <file name="VSMac_1080p.jpg" size="245105">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/fn9+D3tcGZo6Un/6WtECmrk1kYe1J5dIHIGNZYjKW0=</dsig:DigestValue>
+      <dsig:DigestValue>Y4DPm/zJWsYpRfqHl6rBtW0Th0ZG6q/am584P7lwEPE=</dsig:DigestValue>
     </hash>
   </file>
   <file name="WallpaerChange.exe.config" size="188">

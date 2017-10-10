@@ -4,16 +4,28 @@ Public Class Form1
     Private Const SETDESKWALLPAPER = 20
     Private Const UPDATEINIFILE = &H1
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        If MsgBox("Wallpaper Changer v1 for Windows 7" + vbCrLf + "Powered By hominlab@gmail.com" + vbCrLf + "" + vbCrLf + "Change the Wallpaper to VSMac?", vbQuestion + MsgBoxStyle.YesNo, "Change?") = vbYes Then
-            If Not File.Exists("C:\VSMac_1080p.png") Then
-                File.Copy(Application.StartupPath + "\VSMac_1080p.png", "C:\VSMac_1080p.png")
+        If MsgBox("Wallpaper Changer v1 for Windows 7" + vbCrLf + "Powered By hominlab@gmail.com" + vbCrLf + "" + vbCrLf + "Continue?", vbInformation + MsgBoxStyle.YesNo, "Change?") = vbYes Then
+            If File.Exists("C:\Windows\Web\Wallpaper\Windows\img0.jpg_bak") Then
+                '배경 이미 바뀜
+                If MsgBox("Already Changed wallpaper by me. Restore?", vbQuestion + MsgBoxStyle.YesNo, "Queston") = vbYes Then
+                    File.Delete("C:\Windows\Web\Wallpaper\Windows\img0.jpg")
+                    File.Move("C:\Windows\Web\Wallpaper\Windows\img0.jpg_bak", "C:\Windows\Web\Wallpaper\Windows\img0.jpg")
+                    MsgBox("Done!", vbInformation, "yes!")
+                    End
+                Else
+                    End
+                End If
+            Else
+                '배경 바뀌지 않음
+                If MsgBox("Change wallpaper to VSMac_1080p.jpg?", vbQuestion + MsgBoxStyle.YesNo, "Question") = vbYes Then
+                    File.Move("C:\Windows\Web\Wallpaper\Windows\img0.jpg", "C:\Windows\Web\Wallpaper\Windows\img0.jpg_bak")
+                    File.Copy(Application.StartupPath + "\VSMac_1080p.jpg", "C:\Windows\Web\Wallpaper\Windows\img0.jpg")
+                    MsgBox("Done!", vbInformation, "yes!")
+                    End
+                Else
+                    End
+                End If
             End If
-            Try
-                SystemParametersInfo(SETDESKWALLPAPER, 0, "C:\VSMac_1080p.png", UPDATEINIFILE)
-                MsgBox("Done!", vbInformation, "output")
-            Catch ex As Exception
-                MsgBox(ex.Message)
-            End Try
         Else
             End
         End If
